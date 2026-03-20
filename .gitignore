@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.parquet
+*.log
+*.csv
+.env
+spark-*
+hadoop-*
+*.tar.gz
+data/
+data_2019/
